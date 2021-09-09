@@ -9,7 +9,7 @@ Accompanying repository for the paper: "Machine Learning Classification of Traje
 
 - scripts to evaluate the models and reproduce the results mentioned in the paper are stored in [evaluation/](https://github.com/DavidGeisel/ML_Classification_MD_Trajectories/tree/main/evaluation)
 	- classification results for the complete trajectories can be reproduced with the notebook in [complete-trajectories/](https://github.com/DavidGeisel/ML_Classification_MD_Trajectories/tree/main/evaluation/complete-trajectories)
-	- classification results for short trajectories can be reproduced with the notebook in [short-trajectories/]((https://github.com/DavidGeisel/ML_Classification_MD_Trajectories/tree/main/evaluation/complete-trajectories))
+	- classification results for short trajectories can be reproduced with the notebook in [short-trajectories/](https://github.com/DavidGeisel/ML_Classification_MD_Trajectories/tree/main/evaluation/short-trajectories)
 
 
 ## Support & Feedback
