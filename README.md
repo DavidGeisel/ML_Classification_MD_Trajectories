@@ -13,4 +13,4 @@ Accompanying repository for the paper: "Machine Learning Classification of Traje
 
 
 ## Support & Feedback
-Questions or suggestions can be directed to [Peter Lenz](peter.lenz@physik.uni-marburg.de) or [David Geisel](geiselda@staff.uni-marburg.de).
+Questions or suggestions can be directed to [Peter Lenz](xxx) or [David Geisel](geiselda@staff.uni-marburg.de).
